@@ -4,6 +4,8 @@
 
 The **Flavors** project is a Flutter application designed to explore and demonstrate the implementation of Flutter flavors for multi-company and multi-environment setups. This project specifically focuses on testing and experimenting with different configurations for Test, Preprod, and Production environments.
 
+![alt text](image.png)
+
 ## Table of Contents
 
 -   [Introduction](https://chat.openai.com/c/e45130fa-596b-413c-9182-d4aeacc66ab3#introduction)
